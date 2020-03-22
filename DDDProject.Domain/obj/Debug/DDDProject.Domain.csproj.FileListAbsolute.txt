@@ -1,0 +1,6 @@
+D:\Projects\DDDProject\DDDProject\DDDProject.Domain\bin\Debug\DDDProject.Domain.dll
+D:\Projects\DDDProject\DDDProject\DDDProject.Domain\bin\Debug\DDDProject.Domain.pdb
+D:\Projects\DDDProject\DDDProject\DDDProject.Domain\obj\Debug\DDDProject.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DDDProject\DDDProject\DDDProject.Domain\obj\Debug\DDDProject.Domain.dll
+D:\Projects\DDDProject\DDDProject\DDDProject.Domain\obj\Debug\DDDProject.Domain.pdb
+D:\Projects\DDDProject\DDDProject\DDDProject.Domain\obj\Debug\DDDProject.Domain.csprojAssemblyReference.cache

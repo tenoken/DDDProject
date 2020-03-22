@@ -1,0 +1,9 @@
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\bin\Debug\DDDProject.Application.dll
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\bin\Debug\DDDProject.Application.pdb
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\obj\Debug\DDDProject.Application.csproj.CoreCompileInputs.cache
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\obj\Debug\DDDProject.Application.dll
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\obj\Debug\DDDProject.Application.pdb
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\obj\Debug\DDDProject.Application.csprojAssemblyReference.cache
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\bin\Debug\DDDProject.Domain.dll
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\bin\Debug\DDDProject.Domain.pdb
+D:\Projects\DDDProject\DDDProject\DDDProject.Application\obj\Debug\DDDProject.Application.csproj.CopyComplete
